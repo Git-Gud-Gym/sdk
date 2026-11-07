@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "id": "sdkcheck",
+  "name": "SDK check",
+  "version": "0.0.0",
+  "dll": "gitgudgym-sdkcheck.dll",
+  "files": ["gitgudgym-sdkcheck.dll", "gitgudgym-sdkcheck.ini", "module.json"],
+  "game": { "exe": "none.exe" }
+}

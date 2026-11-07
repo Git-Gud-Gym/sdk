@@ -1,0 +1,3 @@
+#define GGG_FILE_DESCRIPTION "Git Gud Gym SDK compile check"
+#define GGG_ORIGINAL_FILENAME "gitgudgym-sdkcheck.dll"
+#include "version_info.rc"
