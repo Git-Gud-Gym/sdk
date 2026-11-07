@@ -1,6 +1,10 @@
 version: 2
 updates:
+  # All GitHub Actions bumps arrive as one PR per month.
   - package-ecosystem: github-actions
     directory: /
     schedule:
       interval: monthly
+    groups:
+      actions:
+        patterns: ["*"]
